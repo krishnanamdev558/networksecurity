@@ -1,3 +1,4 @@
+## connection setup for mongodb atlas
 
 from pymongo import MongoClient
 from pymongo.server_api import ServerApi
