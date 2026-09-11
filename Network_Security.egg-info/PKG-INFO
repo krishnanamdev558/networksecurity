@@ -1,0 +1,13 @@
+Metadata-Version: 2.4
+Name: Network-Security
+Version: 0.0.1
+Author: Krishna Namdev
+Requires-Dist: python-dotenv
+Requires-Dist: pandas
+Requires-Dist: numpy
+Requires-Dist: pymongo
+Requires-Dist: certifi
+Requires-Dist: pymongo
+Requires-Dist: scikit-learn
+Dynamic: author
+Dynamic: requires-dist
