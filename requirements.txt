@@ -8,4 +8,10 @@ pymongo
 scikit-learn
 dill
 pyYaml
+dagshub
+fastapi
+uvicorn
+python-multipart
+mlflow
+
 # -e .
