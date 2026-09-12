@@ -1013,19 +1013,6 @@ taskkill /PID <PID> /F
 - **MongoDB Atlas**: https://www.mongodb.com/cloud/atlas
 - **DagShub**: https://dagshub.com
 
----
-
-## 📝 License
-
-[Add your license information here]
-
----
-
-## ✨ Contributing
-
-[Add contribution guidelines here]
-
----
 
 **Project Maintainer**: Krishna Namdev
 
