@@ -23,9 +23,9 @@ from sklearn.ensemble import (
 )
 import mlflow
 from urllib.parse import urlparse
+
 import dagshub
-
-
+dagshub.init(repo_owner='krishnanamdev558', repo_name='networksecurity', mlflow=True)
 
 class ModelTrainer:
     def __init__(self,model_trainer_config:ModelTrainerConfig,data_transformation_artifact:DataTransformationArtifact):
